@@ -1,6 +1,11 @@
+<h1 align="center">Hi , I'm Abhinash Kumar Singh</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aizenx86&label=Profile%20views&color=0e75b6&style=flat" alt="aizenx86" /> </p>
+
+- 🌱 I’m currently learning **Tensor flow**
+
+- 📫 How to reach me **abhinash2704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
