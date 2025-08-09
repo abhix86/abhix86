@@ -3,6 +3,9 @@
 
 ###
 
+[![Spotify](https://profile-curr-play.vercel.app/api/spotify)](https://open.spotify.com/user/<YourSpotifyUsername>)
+
+
 <div align="center">
   <a href="https://open.spotify.com/user/31bicuemxby4fd33c3fdjino6rci">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bicuemxby4fd33c3fdjino6rci&unique=true" alt="Spotify recently played"  />
