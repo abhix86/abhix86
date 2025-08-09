@@ -4,7 +4,7 @@
 ###
 
 <p align="center">
-  <img src="https://profile-curr-play.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://profile-readme-generator-9wck.vercel.app/api/spotify" alt="Spotify Now Playing" />
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true" alt="GitHub Stats" />
 </p>
 
