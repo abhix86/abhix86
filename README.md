@@ -3,7 +3,11 @@
 
 ###
 
-[![Spotify](https://profile-curr-play.vercel.app/api/spotify)](https://open.spotify.com/user/31bicuemxby4fd33c3fdjino6rci)
+<p align="center">
+  <img src="https://profile-curr-play.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true" alt="GitHub Stats" />
+</p>
+
 
 
 <div align="center">
