@@ -3,9 +3,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://profile-readme-generator-9wck.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</p>
+[![Spotify](https://profile-readme-generator-9wck.vercel.app/api/spotify)](https://open.spotify.com/user/31bicuemxby4fd33c3fdjino6rci)
 
 
 
