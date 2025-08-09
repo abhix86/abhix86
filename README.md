@@ -3,7 +3,7 @@
 
 ###
 
-[![Spotify](https://profile-curr-play.vercel.app/api/spotify)](https://open.spotify.com/user/<YourSpotifyUsername>)
+[![Spotify](https://profile-curr-play.vercel.app/api/spotify)](https://open.spotify.com/user/31bicuemxby4fd33c3fdjino6rci)
 
 
 <div align="center">
