@@ -3,7 +3,7 @@
 
 ###
 
-[![Spotify](https://profile-readme-generator-9wck.vercel.app/api/spotify)](https://open.spotify.com/user/31bicuemxby4fd33c3fdjino6rci)
+[![Spotify](https://profile-readme-generator-9wck.vercel.app/api/spotify?cachebust=123456)](https://open.spotify.com/user/31bicuemxby4fd33c3fdjino6rci)
 
 ###
 
